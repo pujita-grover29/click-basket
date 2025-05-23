@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ECOMZY/static/css/main.e4b0bb11.css",
-    "main.js": "/ECOMZY/static/js/main.81ee803d.js",
-    "index.html": "/ECOMZY/index.html",
-    "main.e4b0bb11.css.map": "/ECOMZY/static/css/main.e4b0bb11.css.map",
-    "main.81ee803d.js.map": "/ECOMZY/static/js/main.81ee803d.js.map"
+    "main.css": "/click-basket/static/css/main.e4b0bb11.css",
+    "main.js": "/click-basket/static/js/main.81ee803d.js",
+    "index.html": "/click-basket/index.html",
+    "main.e4b0bb11.css.map": "/click-basket/static/css/main.e4b0bb11.css.map",
+    "main.81ee803d.js.map": "/click-basket/static/js/main.81ee803d.js.map"
   },
   "entrypoints": [
     "static/css/main.e4b0bb11.css",
